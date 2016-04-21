@@ -9,7 +9,7 @@ class TodosController < ApplicationController
   end
 
   def show
-  end 
+  end
   # POST /todos
   # POST /todos.json
   def create
